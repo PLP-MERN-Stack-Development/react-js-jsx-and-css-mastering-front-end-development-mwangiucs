@@ -175,9 +175,9 @@ src/
 
 ## 🔗 Live Demo
 
-_Add your deployed application URL here_
+**Live Application:** [https://react-js-jsx-and-css-mastering-fron-peach.vercel.app/](https://react-js-jsx-and-css-mastering-fron-peach.vercel.app/)
 
-Example: `https://your-app.vercel.app`
+[View detailed deployment guide](./DEPLOYMENT_GUIDE.md)
 
 ## 📚 Learning Resources
 
