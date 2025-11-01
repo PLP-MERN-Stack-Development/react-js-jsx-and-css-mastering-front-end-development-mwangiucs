@@ -177,8 +177,6 @@ src/
 
 **Live Application:** [https://react-js-jsx-and-css-mastering-fron-peach.vercel.app/](https://react-js-jsx-and-css-mastering-fron-peach.vercel.app/)
 
-[View detailed deployment guide](./DEPLOYMENT_GUIDE.md)
-
 ## 📚 Learning Resources
 
 - [React Documentation](https://react.dev/)
